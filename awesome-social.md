@@ -10,6 +10,9 @@ Chưa có tài nguyên
 
 ## Diễn đàn
 
+#### CodeRanch
+https://coderanch.com/forums
+
 #### Reddit Programming
 
 https://www.reddit.com/r/programming/
