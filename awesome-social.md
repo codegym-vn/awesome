@@ -2,11 +2,15 @@
 
 ## Facebook
 
-Chưa có tài nguyên
+https://www.youtube.com/user/ThoughtWorks
 
 ## Twitter
 
 Chưa có tài nguyên
+
+## Medium
+
+https://medium.com/@davehoover
 
 ## Diễn đàn
 
@@ -20,6 +24,23 @@ https://www.reddit.com/r/programming/
 ## Blog
 
 ### Tiếng Anh
+
+#### Tắt tôi đi
+
+http://turnoff.us
+
+#### Adrian Bolboaca
+
+http://blog.adrianbolboaca.ro/
+
+#### HTML5 Doctor
+
+http://html5doctor.com/
+
+#### Geeks for Geeks
+
+https://www.geeksforgeeks.org/
+
 
 #### Medium
 
@@ -88,3 +109,9 @@ https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw
 ### freeCodeCamp.org Chanel
 
 https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
+
+### Khoa hoc
+
+https://www.i-programmer.info/programming/javascript/
+https://blog.frankel.ch/teaching-java-jupyter-notebooks/
+
